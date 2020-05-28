@@ -5,7 +5,7 @@ date: "5/28/2020"
 output: html_document
 ---
 
-## R Markdown
+## R Shiny app for COVID-19 Analysis
 
 Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus. To learn more about its symptoms, treatments and preventive measures, visit the goernment site:  <https://www.cdc.gov/coronavirus/2019-nCoV/index.html>.
 
