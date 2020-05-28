@@ -1,0 +1,17 @@
+---
+title: "about"
+author: "Parvathy"
+date: "5/28/2020"
+output: html_document
+---
+
+## R Markdown
+
+Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus. To learn more about its symptoms, treatments and preventive measures, visit the goernment site:  <https://www.cdc.gov/coronavirus/2019-nCoV/index.html>.
+
+This shiny app is designed to do some analysis on COVID-19 data that was taken from <https://www.kaggle.com/>. You can see the table used under the Home tab's Table option.To get information pertaining to a state, use the 'Statewise data' option.
+
+The analysis performed on the data can be seen under the Exploratory Data Analysis tab. You can select the vusualization you want to view using the radio buttons. 
+
+The line chart under the predictive analysis shows the forecast for the next few days. You can select the number of days using the slider available on the page. The chart is given data produced by the `auto.arima()` function of `forecast` library. 
+
